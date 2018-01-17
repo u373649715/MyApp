@@ -269,6 +269,7 @@ const styles = StyleSheet.create({
     formControl: {
         textAlign:'right',
 
+
         // marginLeft:ScreenUtil.getWidth(20),
         // paddingTop:ScreenUtil.getHeight(35),
         width:ScreenUtil.getWidth(300),
