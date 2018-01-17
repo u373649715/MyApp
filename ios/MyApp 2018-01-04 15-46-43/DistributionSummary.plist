@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MyApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>9C398AF9F2F95A77114750F7000251A845B74303</string>
+				<key>dateExpires</key>
+				<string>2018/12/4</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>4385DLKFU8.org.reactjs.native.example.shengjiajun1</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>4385DLKFU8</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>4385DLKFU8.org.reactjs.native.example.shengjiajun1</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>MyApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>4487c8ff-f21a-4ef0-8205-5354f0aa7636</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>4385DLKFU8</string>
+				<key>name</key>
+				<string>Wuhan Shengshi Intelligent System Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
